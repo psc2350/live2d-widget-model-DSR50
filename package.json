@@ -1,0 +1,19 @@
+{
+  "name": "live2d-widget-model-dsr50",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psc2350/live2d-widget-model-DSR50.git"
+  },
+  "author": "KKSK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/psc2350/live2d-widget-model-DSR50/issues"
+  },
+  "homepage": "https://github.com/psc2350/live2d-widget-model-DSR50#readme"
+}
